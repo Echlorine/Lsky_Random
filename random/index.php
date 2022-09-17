@@ -69,7 +69,7 @@
     } else {
         // 如果返回为空，返回默认404图片
         // 3. 设置默认404图片
-        // header('location:'.'/404.png');
+        // header('location:'.'404.png');
     }
 
 ?>
